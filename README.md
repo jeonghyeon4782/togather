@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a04f591-07a0-4798-b8cc-07fcd7358fdf)
+![image](https://github.com/user-attachments/assets/77cc8293-d085-4002-93ab-681c086534cb)
 # "일정관리부터 정산까지 TOGATHER!!"
 
 ## 어떤 사람들을 위한 서비스일까요?
@@ -7,12 +7,12 @@
 - 개인별 정산을 할 수 있으면 좋겠어요.
 
 ## 🖥️ 미리 보기
-![rn_image_picker_lib_temp_38a1bdfa-089d-4621-aa9f-203495fd7045](https://github.com/user-attachments/assets/0eaed008-68a2-4e34-a755-16bd50d3ee54)
-![rn_image_picker_lib_temp_8d9e71f0-6e12-4382-848f-076879d64f96](https://github.com/user-attachments/assets/38562048-f8fd-4521-9713-c4188a6bd78f)
-![rn_image_picker_lib_temp_4aa32c73-57a8-4554-96ec-fe7b3d9e6b58](https://github.com/user-attachments/assets/ea16c06a-22a5-4199-b3fb-595a185c5290)
-![rn_image_picker_lib_temp_a1a9b60d-dbaf-4578-b8ad-a08cd031daf9](https://github.com/user-attachments/assets/2965a6f7-4ece-4b73-b37b-f46e4eda8349)
-![rn_image_picker_lib_temp_e086d05d-52e4-4e94-b5ad-7cd435b6b46a (1)](https://github.com/user-attachments/assets/cb00f31f-9689-4f52-a7d4-c2c704e969e6)
-![rn_image_picker_lib_temp_f084e18f-1875-4101-9caa-295a1e694083 (1)](https://github.com/user-attachments/assets/894d2f69-2554-4b08-8473-ae05e7dad768)
+![image](https://github.com/user-attachments/assets/25c71bf8-da8b-4076-8342-0aadcc9920c6)
+![image](https://github.com/user-attachments/assets/47b25899-12d4-4c8a-9a17-f6e35c304239)
+![image](https://github.com/user-attachments/assets/dce26d29-2b40-40a8-af6f-6590b2e17770)
+![image](https://github.com/user-attachments/assets/dd8e3dd6-a356-4804-b271-993b46563fd8)
+![image](https://github.com/user-attachments/assets/edd5fbb3-ad56-43ce-a3bc-cea86447f5ef)
+![image](https://github.com/user-attachments/assets/ba03ffae-d2a1-4b3b-a8a9-66bfe66834e1)
 
 ## 👊 주요 기능
 👨‍👩‍👧‍👦 **모임 및 일정 관리**
@@ -31,7 +31,8 @@
 - 거래 내역 조회
 
 ## 🛠️ 시스템 아키텍쳐
-![image](https://github.com/user-attachments/assets/5e5b3140-f31f-4d7e-9b2d-30a42fc41b5a)
+![image](https://github.com/user-attachments/assets/ff1a8298-170e-4e33-91f7-e2a26b91bbc7)
 
-## ERD
-![trip](https://github.com/user-attachments/assets/b552929b-de55-45ba-aa28-2ed37e483fa5)
+## 📚 ERD 설계
+![투게더 ERD](https://github.com/user-attachments/assets/b308a354-e841-4ad2-8162-50bffc57cd49)
+
