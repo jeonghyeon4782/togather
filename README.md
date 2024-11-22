@@ -1,5 +1,5 @@
 # 📜일정관리부터 정산까지 TOGATHER!
-<img src="https://github.com/user-attachments/assets/a0698fe7-3549-4231-9de2-5ea21cef329f" width="300"/>
+<img src="https://github.com/user-attachments/assets/a0698fe7-3549-4231-9de2-5ea21cef329f" width="500"/>
 
 <br/>
 <br/>
@@ -45,6 +45,19 @@
 - 나만의 페이머니를 만들고, 연동된 계좌에서 필요한 만큼 출금하고, 다시 계좌로 넣을 수도 있어요!
 - 친구들과의 송금은 페이머니를 통해 정산이 아니더라도 언제든 송금이 가능해요!
   
+<br/>
+<br/>
+
+## 🛠️ 개발 환경
+|분류|내용|
+|:---|:---|
+|통합 개발 환경|IntelliJ, VSCode|
+|언어|Java, JS, Html, CSS|
+|프레임워크|Spring boot, React|
+|데이터베이스|MySQL, Redis, AWS S3|
+|버전 관리|Git, Gitlab|
+|협업 Tool|Mattermost, Notion, Discord|
+
 <br/>
 <br/>
 
