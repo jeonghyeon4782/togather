@@ -73,6 +73,14 @@
 <br/>
 <br/>
 
+## 📖 API 명세서
+
+📄 [**Togather API 명세서 바로가기**](https://fluttering-ski-a33.notion.site/Togather-API-1482bdca7ff3806992aec3e32e5c8a32?pvs=4)  
+> 프로젝트에서 사용된 API의 상세 정보를 확인할 수 있습니다.
+
+<br/>
+<br/>
+
 ## ✨ 서비스 구현 화면
 ### 1. 계정 관련 기능 및 알림 기능 및 모임 관리
 
